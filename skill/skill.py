@@ -330,7 +330,7 @@ class Crypto:
                 'chart': {
                     "url": chart_url,
                     "caption": chart_title,
-                    "source": "Forbes Media / CoinMarketCap.com"
+                    "source": "CoinMarketCap.com"
                 }
             })
                     
