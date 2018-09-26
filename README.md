@@ -1,7 +1,7 @@
 # Crypto Values
 ![Coverage](https://img.shields.io/badge/coverage-93%25-green.svg?style=flat-square)
 
-This Bertie.ai skill returns to a user a search result, showing all found 
+This program returns to a user a search result, showing all found 
 Cryptocurrencies from the [CoinMarketCap](https://coinmarketcap.com/) source. After locating the Cryptocurrencies,
 a list of values from the end of a market day is given, and this information is then
 graphed on a Plotly link, that can be inserted to any written article. If Plotly is 
